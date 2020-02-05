@@ -1,0 +1,8 @@
+Hello World
+
+<<<<<<< HEAD
+
+Line from hotfix!
+=======
+Line from develop.
+>>>>>>> develop
